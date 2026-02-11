@@ -1,6 +1,9 @@
 # Act-Energy-Public
+
 AEP (Act–Energy–Public) Protocol v1.0 - A Transitionary Framework for Civilizational Governance.
+
 AEP Protocol (Act–Energy–Public)
+
 —— 从“资源掠夺”向“贡献式文明”跃迁的社会操作系统
 “你是否对一个普遍生存基线作为基本权利，并且随着集体劳动财富不断发展的社会感兴趣？探索AEP——它的设计就是为了让你不失望。”
 
