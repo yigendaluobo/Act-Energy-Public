@@ -126,4 +126,4 @@ Document Hash (SHA-256): 2fb5277c8c00b20bc185922a281c11c443d5d01d60aae9fcb0da5d5
 
 Bitcoin Anchor Block: 936052
 
-Genesis Author: 潘正阳 (Pan Zhengyang)
+Genesis Author: 潘正阳 (Pan Zhengyang) | 一根大萝卜（Bigradish）
