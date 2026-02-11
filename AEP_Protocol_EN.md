@@ -33,6 +33,7 @@ AEP provides a staged institutional interface: it allows individuals, organizati
 
 The purpose of these transition principles is to avoid uncontrolled systemic shocks caused by institutional replacement, while ensuring every scaling step has verifiable engineering basis, traceable rule versions, and rollback-capable risk handling.
 <br>&nbsp;<br>
+<br>&nbsp;<br>
 2.1 Layer 0: Survival Stack
 
 Basic survival (food, basic housing, basic clothing, public transportation, basic healthcare, etc.) is defined as public-infrastructure-grade service. Any natural person, regardless of whether their DemandCoin balance is positive/zero/negative, can receive baseline survival supply without discrimination.
